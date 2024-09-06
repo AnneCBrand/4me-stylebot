@@ -1,0 +1,53 @@
+:root {
+  --color-header-button:#63969C;
+
+  --color-header: #1F4F59;
+  --color-x-purple: #63969C;
+  --color-accent: #282828;
+  --color-surface-active: #B8BCB3;
+  --color-surface-hover: #B8BCB3;
+  --color-surface-primary: #B8BCB3;
+  --color-link-title: #B8BCB3;
+  --color-primary: #C7CEC5;
+  --color-x-electric-violet-shade: #C7CEC5;
+  --color-x-perano-blue: #FF8E00;
+  --color-icon-information: #FF8E00;
+  --color-x-purple-dark: #282828;
+  --color-border-surface-primary-active: #C7CEC5;
+}
+ 
+#nav-primary {
+  background-color: var(--color-header);
+}
+ 
+.welcome-header {
+  background: #ffffff;
+}
+ 
+div.welcome-footer.l-flex-col-lg.a-center {
+  display: none;
+}
+ 
+#abs_main_container {
+  background-color: #000000;
+}
+ 
+p strong mark {
+  color: #000000;
+}
+ 
+div.x-welcome-tip.welcome-card {
+  display: none;
+}
+ 
+.welcome-homepage .welcome-card img {
+    filter: none;
+}
+ 
+div.notes-summary {
+  background: #eeeeee;
+}
+
+a.enabled {
+  color: #282828;
+}
